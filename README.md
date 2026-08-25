@@ -17,7 +17,7 @@
 
 ## 🚀 Sobre mim
 
-Trabalho principalmente com **backend e plataforma**: desenho e mantenho APIs, integrações com serviços externos, pipelines de automação e a infraestrutura que sustenta tudo isso em produção. Também atuo na camada de frontend quando o produto pede, então consigo levar uma feature da modelagem do banco até a tela.
+Sou **desenvolvedor fullstack**: pego a feature na modelagem do banco e entrego na tela. No backend, desenho e mantenho APIs, integrações com serviços externos e rotinas de automação; no frontend, construo os portais e dashboards que consomem essas APIs, cuidando também de UI e UX; e ainda coloco tudo no ar com deploy previsível.
 
 O que me move é construir sistema que aguenta uso real — com contrato de API bem definido, autenticação e autorização levadas a sério, observabilidade, deploy previsível e código que a próxima pessoa consegue ler.
 
