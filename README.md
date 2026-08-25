@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 
@@ -23,7 +23,8 @@ O que me move é construir sistema que aguenta uso real — com contrato de API 
 
 -  Atuo na **[Astratech](https://github.com/astratech-net-br)** e na **[Auditore](https://github.com/auditoreie)**, entre produtos internos e projetos para clientes
 -  Domínios em que já entreguei: **setor automotivo** (gestão de frota, credenciamento de rede, portais de concessionária), **varejo e e-commerce**, **ferramentas para desenvolvedores** e **automação com IA**
--  Estudando e aplicando **Rust** e **Go** em serviços onde performance e footprint importam
+-  **Angular + NestJS** é o par que mais uso no dia a dia — front e back do mesmo produto, ponta a ponta
+-  Do commit ao ar: **Docker**, **Vercel** e **Render** para deploy e ambientes de preview
 -  Fale comigo sobre: arquitetura de API, integrações, mensageria, automação de processos, UI e UX
 
 ---
@@ -31,16 +32,18 @@ O que me move é construir sistema que aguenta uso real — com contrato de API 
 ## 📊 Atividade
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GuiSilva20&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSilva20&layout=compact&langs_count=8&count_private=true&hide_border=true&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas">
+  <img src="https://img.shields.io/badge/Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2012%20meses-1.846-1F6FEB?style=for-the-badge" alt="1.846 contribuições nos últimos 12 meses">
+  <img src="https://img.shields.io/badge/Em%20reposit%C3%B3rios%20privados-1.840-238636?style=for-the-badge" alt="1.840 em repositórios privados">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuiSilva20&hide_border=true&theme=tokyonight&locale=pt_BR" alt="Sequência de contribuições">
+  <img src="https://img.shields.io/badge/Organiza%C3%A7%C3%B5es-3-8957E5?style=for-the-badge" alt="3 organizações">
+  <img src="https://img.shields.io/badge/No%20GitHub%20desde-2022-6E7681?style=for-the-badge" alt="No GitHub desde 2022">
 </p>
 
 <p align="center">
-  <b>~1.800 contribuições nos últimos 12 meses</b>, a grande maioria em repositórios privados de organização.
+  Quase toda a minha atividade acontece em <b>repositórios privados de organização</b>.<br>
+  O gráfico de contribuições do perfil mostra o ritmo; o código em si fica com os clientes.
 </p>
 
 ---
@@ -81,6 +84,8 @@ O que me move é construir sistema que aguenta uso real — com contrato de API 
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
 </p>
@@ -88,6 +93,8 @@ O que me move é construir sistema que aguenta uso real — com contrato de API 
 **Frontend**
 
 <p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" alt="RxJS">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte">
@@ -118,10 +125,10 @@ Sem entrar em detalhes internos dos produtos, esse é o tipo de trabalho que fa�
 | **APIs de produto** | Serviços em NestJS + Prisma sobre PostgreSQL e MongoDB, com autenticação JWT, controle de acesso por papel, validação de contrato, documentação OpenAPI e testes automatizados |
 | **Integrações** | Conexão com gateways de pagamento, mensageria via WhatsApp, e-mail transacional, notificações push e APIs de terceiros — com retry, idempotência e tratamento de falha |
 | **Automação de processos** | Rotinas agendadas, scraping e automação de navegador com Playwright/Puppeteer, geração de relatórios em Excel/PDF e bots de operação |
-| **Plataforma e infra** | Containerização com Docker, provisionamento com Terraform, deploy em AWS, scripts de operação em Shell e configuração de rede/VPN |
-| **Serviços em Rust e Go** | Componentes de baixo nível e alto desempenho para partes do sistema em que Node não é a melhor ferramenta |
+| **Plataforma e deploy** | Containerização com Docker, publicação em Vercel e Render com ambientes de preview, scripts de operação em Shell e configuração de rede/VPN |
+| **Aplicações Angular** | Portais e dashboards administrativos em Angular + TypeScript: rotas protegidas por guard, formulários reativos, interceptors de autenticação, estado com RxJS e componentes reaproveitáveis entre produtos |
 | **Ferramentas internas / DX** | Monorepos com Nx, CLIs, painéis administrativos e ambientes de desenvolvimento que encurtam o ciclo do time |
-| **Frontend de apoio** | Dashboards e portais em React/Next e Svelte, além de apps mobile em React Native + Expo |
+| **Outros frontends** | Interfaces em React/Next e Svelte, além de apps mobile em React Native + Expo |
 
 ---
 
