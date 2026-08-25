@@ -9,8 +9,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
@@ -23,12 +21,10 @@ Trabalho principalmente com **backend e plataforma**: desenho e mantenho APIs, i
 
 O que me move é construir sistema que aguenta uso real — com contrato de API bem definido, autenticação e autorização levadas a sério, observabilidade, deploy previsível e código que a próxima pessoa consegue ler.
 
-- 🏢 Atuo na **[Astratech](https://github.com/astratech-net-br)** e na **[Auditore](https://github.com/auditoreie)**, entre produtos internos e projetos para clientes
-- 🧩 Domínios em que já entreguei: **setor automotivo** (gestão de frota, credenciamento de rede, portais de concessionária), **varejo e e-commerce**, **ferramentas para desenvolvedores** e **automação com IA**
-- 🦀 Estudando e aplicando **Rust** e **Go** em serviços onde performance e footprint importam
-- 💬 Fale comigo sobre: arquitetura de API, integrações, mensageria, automação de processos e DX
-
-> A maior parte do meu trabalho vive em **repositórios privados de organizações**, então os projetos em si não estão públicos aqui. O que dá para mostrar é o volume, a consistência e o stack — abaixo.
+-  Atuo na **[Astratech](https://github.com/astratech-net-br)** e na **[Auditore](https://github.com/auditoreie)**, entre produtos internos e projetos para clientes
+-  Domínios em que já entreguei: **setor automotivo** (gestão de frota, credenciamento de rede, portais de concessionária), **varejo e e-commerce**, **ferramentas para desenvolvedores** e **automação com IA**
+-  Estudando e aplicando **Rust** e **Go** em serviços onde performance e footprint importam
+-  Fale comigo sobre: arquitetura de API, integrações, mensageria, automação de processos, UI e UX
 
 ---
 
@@ -56,10 +52,6 @@ O que me move é construir sistema que aguenta uso real — com contrato de API 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell">
 </p>
 
@@ -69,7 +61,6 @@ O que me move é construir sistema que aguenta uso real — com contrato de API 
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun">
-  <img src="https://img.shields.io/badge/Elysia-0F172A?style=flat-square&logo=elysia&logoColor=white" alt="ElysiaJS">
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/REST-02569B?style=flat-square&logo=swagger&logoColor=white" alt="REST / OpenAPI">
   <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket">
@@ -89,10 +80,7 @@ O que me move é construir sistema que aguenta uso real — com contrato de API 
 **Infra & DevOps**
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
 </p>
