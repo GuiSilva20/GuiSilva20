@@ -1,8 +1,8 @@
 <h1 align="center">Olá, eu sou o Guilherme 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor Backend & Plataforma</b><br>
-  APIs, integrações, automação e infraestrutura — de Belo Horizonte, MG 🇧🇷
+  <b>Desenvolvedor Fullstack</b><br>
+  APIs, integrações, automação, UX, UI e infraestrutura — de Belo Horizonte, MG 🇧🇷
 </p>
 
 <p align="center">
